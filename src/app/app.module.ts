@@ -1,4 +1,3 @@
-import { AuthModelComponent } from './user/auth-model/auth-model.component';
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
